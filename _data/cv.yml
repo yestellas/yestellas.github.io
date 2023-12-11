@@ -96,10 +96,7 @@
     - title: Learning Theory.
       items:
         - Problems in optimization always fascinated me because it interests me to understand accuracy, efficiency, and robustness of algorithms and models. This is not just a theoretical concern; it's pivotal in shaping scientific theories. As models strive to fit data, they usually encounter a fundamental tradeoff among accuracy, complexity, and the ability to generalize accurately to new scenarios. Studying these models is crucial in understanding how scientists infer models of the world, how machines learn to structure data, and how living organisms, from single cells to complex beings with brains, adapt over varying timescales, from milliseconds to evolutionary epochs.
-        - My academic pursuits span broadly across the domains of optimization and learning theory, where I am particularly driven to explore and address several pivotal questions. 
-        These include, How can we tailor optimization algorithms to navigate the high-dimensional and intricate challenges posed by machine learning, such as in deep learning architectures? 
-        What strategies are most efficacious in ensuring the convergence of optimization algorithms within non-convex environments, especially when dealing with neural networks? 
-        And, is it possible to forge optimization algorithms that are not only more efficient but also capable of reducing computational demands without sacrificing accuracy, particularly in applications demanding real-time responsiveness?
+        - My academic pursuits span broadly across the domains of optimization and learning theory, where I am particularly driven to explore and address several pivotal questions. These include, How can we tailor optimization algorithms to navigate the high-dimensional and intricate challenges posed by machine learning, such as in deep learning architectures? What strategies are most efficacious in ensuring the convergence of optimization algorithms within non-convex environments, especially when dealing with neural networks? And, is it possible to forge optimization algorithms that are not only more efficient but also capable of reducing computational demands without sacrificing accuracy, particularly in applications demanding real-time responsiveness?
 
 - title: Other Interests
   type: list
