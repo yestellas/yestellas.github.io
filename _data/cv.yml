@@ -49,18 +49,24 @@
     #     - Description 2.
 
     - title: Research Assistant
-      institution: lab, University of Pennsylvania
-      year: 2021 - current
+      institution: Kording’s Lab, University of Pennsylvania
+      year: Oct 2022 - current
+        - Balanced Excitation and Inhibition Could Help Estimate Gradients 
+        - Complexity of Local Learning Rules  (In progress)
 
     - title: Research Assistant
-      institution: lab, University of Pennsylvania
-      year: 2022 - 2022
+      institution: Center for Neuroscience and Society, University of Pennsylvania
+      year: July 2022 - Dec 2022
       description:
+        - Heterogeneity in Brain Imaging of Depression Patients
+        - Lower Memory Ability in Lower SES Is Not Explained by Smaller Hippocampi
 
     - title: Research Assistant
       institution: lab, University of Pennsylvania
-      year: 2022 - current
-
+      year: Oct 2021 - current
+        - Regret Bounds for Risk-Sensitive Reinforcement Learning
+        - Interpretable Risk-Sensitive Reinforcement Learning
+        - Stochastic Bandits with Strongly Convex Model Families
 # - title: Open Source Projects
 #   type: time_table
 #   contents:
@@ -84,12 +90,16 @@
   contents:
     - title: Computational Neuroscience.
       items: 
-        - Description 1.
-        - Description 2.
+        - I'm interested in applying the principles of deep learning to reverse-engineer the brain opens the door to a comprehensive understanding of neural learning processes on a global level, given the complex computational nature shared by both the brain and deep neural networks. 
+        - I'm particularly interested in exploring how machine learning and learning theory can be applied to propel advancement in theoretical neuroscience. 
+
     - title: Learning Theory.
       items:
-        - Description 1.
-        - Description 2.
+        - Problems in optimization always fascinated me because it interests me to understand accuracy, efficiency, and robustness of algorithms and models. This is not just a theoretical concern; it's pivotal in shaping scientific theories. As models strive to fit data, they usually encounter a fundamental tradeoff among accuracy, complexity, and the ability to generalize accurately to new scenarios. Studying these models is crucial in understanding how scientists infer models of the world, how machines learn to structure data, and how living organisms, from single cells to complex beings with brains, adapt over varying timescales, from milliseconds to evolutionary epochs.
+        - My academic pursuits span broadly across the domains of optimization and learning theory, where I am particularly driven to explore and address several pivotal questions. 
+        These include, How can we tailor optimization algorithms to navigate the high-dimensional and intricate challenges posed by machine learning, such as in deep learning architectures? 
+        What strategies are most efficacious in ensuring the convergence of optimization algorithms within non-convex environments, especially when dealing with neural networks? 
+        And, is it possible to forge optimization algorithms that are not only more efficient but also capable of reducing computational demands without sacrificing accuracy, particularly in applications demanding real-time responsiveness?
 
 - title: Other Interests
   type: list
